@@ -5,9 +5,9 @@ I love creating beautiful, user-friendly interfaces and bringing ideas to life t
 
 ## ˙ . ꒷ 🍰 About Me . 𖦹˙
 
- ⋅ ˚✮ I’m currently learning more about **HTML**, **CSS**, **JavaScript** and **Python**.
- ⋅ ˚✮ Feel free to reach out if you have any questions or want to discuss anything related to **HTML** or **Python**.
- ⋅ ˚✮ I’m looking for opportunities to connect and collaborate with like-minded individuals ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+- I’m currently learning more about **HTML**, **CSS**, **JavaScript** and **Python**.
+- Feel free to reach out if you have any questions or want to discuss anything related to **HTML** or **Python**.
+- I’m looking for opportunities to connect and collaborate with like-minded individuals ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ## ˙ . ꒷ 🦢 How To Reach Me . 𖦹˙
 
