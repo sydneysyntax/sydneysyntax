@@ -1,10 +1,7 @@
 ## Hello, I'm Sydney! ˚.🎀༘⋆
 
-     I am a passionate **Front-End Developer** and **UI Designer** currently on my journey of 
-         self-learning &&growth in the tech world. 
-       
-     I love creating beautiful, user-friendly interfaces and bringing ideas
-        to life through code ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა!!
+I am a passionate **Front-End Developer** and **UI Designer** currently on my journey of self-learning &&growth in the tech world. 
+I love creating beautiful, user-friendly interfaces and bringing ideas to life through code ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა!!
 
 ## ˙ . ꒷ 🍰 About Me . 𖦹˙
 
